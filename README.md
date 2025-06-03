@@ -1,21 +1,28 @@
-   ### Olá! Eu sou o Raykkar Garney, estudante de SI e entusiasta de Front-end :)
+   ### Olá! Eu sou o Raykkar Costa, analista de dados Junior :)
 ##
 
 
   <!--Layout -->
 <div align="center">
   <a href="https://github.com/RaykkarG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaykkarG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaykkarG&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  ##
   
   <!--Ícones -->
-  <div style="display: inline_block"><br>
-  <img align="center" alt="ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+<div align="center">
+  <img align="center" alt="ray-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="ray-MatplotlibL" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg">
+  <img align="center" alt="ray-Pandas" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="ray-SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="ray-Jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="ray-Postman" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" >
+  <img align="center" alt="ray-VB" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
+</div>
+         
+          
 </div>
   
  ##
